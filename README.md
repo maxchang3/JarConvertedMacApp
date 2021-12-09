@@ -1,4 +1,5 @@
 # Jar Converted MacApp (especially for Apple Silicon)
+[简体中文](https://github.com/MaxChang3/JarConvertedMacApp/blob/master/README_CN.md)
 ## TL;DR
 
 I convert some jar applications to `.app` using [jar2app](https://github.com/dante-biase/jar2app) by dante-biase. 
