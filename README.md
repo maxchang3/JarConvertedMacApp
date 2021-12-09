@@ -3,7 +3,7 @@
 
 I convert some jar applications to `.app` using [jar2app](https://github.com/dante-biase/jar2app) by dante-biase. 
 
-They can work well on arm macOS with your own jdk(So you must install jdk by yourself). You can download them in release.
+They can work well on arm/x86_64 macOS with your own jdk(So you must install jdk by yourself). You can download them in release.
 
 App lists:
 |App Name|Intro|
